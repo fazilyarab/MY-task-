@@ -1,0 +1,110 @@
+23.12.19 laptop setup jenkins {work started}
+24.12.19 jenkins setup working fine email setup issue (fail means email sending & success means not sending )
+26.12.19 i found the issue (success time also send the notification ) & pipeline setup poll scm function 
+27.12.19 connected visual studio solution in jenkins
+30.12.19 normal publish in visual studio & after i checked publish project (visual studio ) jenkins to iis ( didn't finished facing problem)
+31.12.2019 i tried publish project but it's not working 
+2.1.2020 same tried but not working ,after i check iis some issue,msbuild details (performance poor ,must finish this one 3.1.2020)
+3.1.2020 i studied iis details & i didn't finish the task ,connection through local to iis issue
+6.1.2020 (monday) visual studio solution deploy iis not finished & iis doudts finshed & visual studio solution push & pull 
+7.1.2020 studied MAVEN ,and i create sample maven project in jenkins (working fine) & automatically  iis website deployment through shell script (going on )
+8.1.2020 maven project studied through udemy (jenkins working fine),i tried shell script automation package issue , started course  in udemy jenkins CI. 
+9.1.2022 i studied course udemy (ci&cd course) tried maven project pipeline and automatically deploy war file in tomcat server (working fine)
+10.1.2020 i studied coures about jenkins basics and CI after i install cloud server linux (digital ocean ) in my machine & install jenkins in cloud server linux
+13.1.2020 (monday)i studied course CD in jenkins (maven project) i tried it's working fine & deploy  the code two server ex: 8081 tomcat,8083 pre-prod 
+jenkins pipeline 
+14.1.2020 i studied docker basics and install in my linux machine (digital ocean), dockerfile,image bascis
+15.1.2020 i studied docker but i"m facing iisue with maven project (automation) ci&cd not working 
+16.1.2020 facing problem linux(digital ocean) server plugin (copy artifacts from another project) not working for ci&cd pipeline maven_project (udemy coures)
+AFTER PONGAL_HOLIDAYS_(17,18,19)
+
+20.1.2020 i fixed the issue maven_project ci&cd i used linux server (digital ocean) , the plugin issue fixed by the uninstall plugin again i install plugin it's working fine & sample docker image create in jenkins pipeline
+
+21.1.2020 i worked jenkins parameters, jenkins security (role based security, signup,login) after i didn't start course udemy(order by order), so i started devops, devops tool, CI&CD,CT,CM,CD.
+22.1.2020 i created first container ,start,remove,change the container name,publish tha container particular port.
+23.1.2020 i did assignment (udemy course), i worked advance container topics running container changes.
+24.1.2020 i studied & worked docker networking concepts 
+27.1.2020 (monday) docker container images beginning ,docker images tagging, iamges layer,upload docker image to cloud , dockerfile basics
+28.1.2020 create docker image custom through docker file,Docker data management Container Persistent Data Problem(udemy coures)
+29.1.2020 Persistent data proble slove method volumes,Bind mounts(i'm not feeling well fever,headache)
+30.1.2020 Persistent data assignments done & Docker-compose introduction, compose.yml file,custom.yml file
+31.1.2020 (friday) docker swarm introduction, docker swarm terminology
+3.2.2020 (monday) docker swarm networks, traffic management , i created 3 cloud server maked docker swarm network cluster.
+4.2.2020  docker swarm assignment, docker stack deployment , multi service deployment, introduction of docker swarm secrets
+5.2.2020 docker swarm secrets, zero downtime production upgrade, helathy check in docker swarm, constraints in docker swarm ( i'm facing problem docker container showing all node as a manager visualiser )
+6.2.2020  kubernetes introduction, architecture , kubernetes vs swarm, minkube installation  
+7.2.2020 (friday) setup Kubernetes on AWS cloud, (facing probelm - i created new aws account that account not activate after i talk to support team ),
+
+10.2.2020 (monday) create custom image in kubernetes, run the image in kubernetes,google clouf platform setup kubernetes(account not created some problem so just i saw a video only), kubernetes basics worker node,scalling pods 
+11.2.2020 kubernetes topics replica controller, replica set, deployments,services,lables, i started awsc ourese udemy 
+12.2.2020 kubernetes liveness(helathy check), Readiness ,secrets , pod lifecycle
+13.2.2020 git introduction,workflow,first repo,commit,editor notepad++
+14.2.2020 (friday) I went to github meetup.
+17.2.2020 (monday) i went to kubernetes forum meetup.
+18.2.2020 i'm not feeling well started kubernetes Dns discovery service.
+19.2.220 i worked on aws introduction and YAML basics , DNS server discovery.
+20.2.2020 i worked on configmap, ingress advance kubernetes topics.
+21.2.2020  (friday) done Ec2 instances and kubernetes advance volumes.server problem digital_ocean unable to start the types of volumes.
+24.2.2020 (monday) i worked on kubernetes volumes types .
+25.2.2020 done kubernetes pod prestes, stateful sets.
+26.2.2020 kubernetes auto scalling done.
+27.2.2020 laptop is not working i studied through mobile kubernetes adminstration - namespaces , RABC 
+28.2.2020 (friday) done networking & node management.
+
+2.3.2020 (monday) done Helm& serverless in kubernetes.
+
+23.12.19 laptop setup jenkins {work started}
+24.12.19 jenkins setup working fine email setup issue (fail means email sending & success means not sending )
+26.12.19 i found the issue (success time also send the notification ) & pipeline setup poll scm function 
+27.12.19 connected visual studio solution in jenkins
+30.12.19 normal publish in visual studio & after i checked publish project (visual studio ) jenkins to iis ( didn't finished facing problem)
+31.12.2019 i tried publish project but it's not working 
+2.1.2020 same tried but not working ,after i check iis some issue,msbuild details (performance poor ,must finish this one 3.1.2020)
+3.1.2020 i studied iis details & i didn't finish the task ,connection through local to iis issue
+6.1.2020 (monday) visual studio solution deploy iis not finished & iis doudts finshed & visual studio solution push & pull 
+7.1.2020 studied MAVEN ,and i create sample maven project in jenkins (working fine) & automatically  iis website deployment through shell script (going on )
+8.1.2020 maven project studied through udemy (jenkins working fine),i tried shell script automation package issue , started course  in udemy jenkins CI. 
+9.1.2022 i studied course udemy (ci&cd course) tried maven project pipeline and automatically deploy war file in tomcat server (working fine)
+10.1.2020 i studied coures about jenkins basics and CI after i install cloud server linux (digital ocean ) in my machine & install jenkins in cloud server linux
+13.1.2020 (monday)i studied course CD in jenkins (maven project) i tried it's working fine & deploy  the code two server ex: 8081 tomcat,8083 pre-prod 
+jenkins pipeline 
+14.1.2020 i studied docker basics and install in my linux machine (digital ocean), dockerfile,image bascis
+15.1.2020 i studied docker but i"m facing iisue with maven project (automation) ci&cd not working 
+16.1.2020 facing problem linux(digital ocean) server plugin (copy artifacts from another project) not working for ci&cd pipeline maven_project (udemy coures)
+AFTER PONGAL_HOLIDAYS_(17,18,19)
+
+20.1.2020 i fixed the issue maven_project ci&cd i used linux server (digital ocean) , the plugin issue fixed by the uninstall plugin again i install plugin it's working fine & sample docker image create in jenkins pipeline
+
+21.1.2020 i worked jenkins parameters, jenkins security (role based security, signup,login) after i didn't start course udemy(order by order), so i started devops, devops tool, CI&CD,CT,CM,CD.
+22.1.2020 i created first container ,start,remove,change the container name,publish tha container particular port.
+23.1.2020 i did assignment (udemy course), i worked advance container topics running container changes.
+24.1.2020 i studied & worked docker networking concepts 
+27.1.2020 (monday) docker container images beginning ,docker images tagging, iamges layer,upload docker image to cloud , dockerfile basics
+28.1.2020 create docker image custom through docker file,Docker data management Container Persistent Data Problem(udemy coures)
+29.1.2020 Persistent data proble slove method volumes,Bind mounts(i'm not feeling well fever,headache)
+30.1.2020 Persistent data assignments done & Docker-compose introduction, compose.yml file,custom.yml file
+31.1.2020 (friday) docker swarm introduction, docker swarm terminology
+3.2.2020 (monday) docker swarm networks, traffic management , i created 3 cloud server maked docker swarm network cluster.
+4.2.2020  docker swarm assignment, docker stack deployment , multi service deployment, introduction of docker swarm secrets
+5.2.2020 docker swarm secrets, zero downtime production upgrade, helathy check in docker swarm, constraints in docker swarm ( i'm facing problem docker container showing all node as a manager visualiser )
+6.2.2020  kubernetes introduction, architecture , kubernetes vs swarm, minkube installation  
+7.2.2020 (friday) setup Kubernetes on AWS cloud, (facing probelm - i created new aws account that account not activate after i talk to support team ),
+
+10.2.2020 (monday) create custom image in kubernetes, run the image in kubernetes,google clouf platform setup kubernetes(account not created some problem so just i saw a video only), kubernetes basics worker node,scalling pods 
+11.2.2020 kubernetes topics replica controller, replica set, deployments,services,lables, i started awsc ourese udemy 
+12.2.2020 kubernetes liveness(helathy check), Readiness ,secrets , pod lifecycle
+13.2.2020 git introduction,workflow,first repo,commit,editor notepad++
+14.2.2020 (friday) I went to github meetup.
+17.2.2020 (monday) i went to kubernetes forum meetup.
+18.2.2020 i'm not feeling well started kubernetes Dns discovery service.
+19.2.220 i worked on aws introduction and YAML basics , DNS server discovery.
+20.2.2020 i worked on configmap, ingress advance kubernetes topics.
+21.2.2020  (friday) done Ec2 instances and kubernetes advance volumes.server problem digital_ocean unable to start the types of volumes.
+24.2.2020 (monday) i worked on kubernetes volumes types .
+25.2.2020 done kubernetes pod prestes, stateful sets.
+26.2.2020 kubernetes auto scalling done.
+27.2.2020 laptop is not working i studied through mobile kubernetes adminstration - namespaces , RABC 
+28.2.2020 (friday) done networking & node management.
+
+2.3.2020 (monday) done Helm& serverless in kubernetes.
+

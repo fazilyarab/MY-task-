@@ -109,5 +109,6 @@ AFTER PONGAL_HOLIDAYS_(17,18,19)
 2.3.2020 (monday) done Helm& serverless in kubernetes.
 3.3.2020 done kubernetes micro services .
 4.3.2020 done Git & Github basic cls from udemy .
+5.3.2020 dine Git & Github advance commands.
 
 

@@ -113,4 +113,5 @@ AFTER PONGAL_HOLIDAYS_(17,18,19)
 6.3.2020 (friday)Aws autoscaling & load balancer done basics.
 
 9.3.2020 (monday) I started shell scripting course in udemy.
+10.3.2020 all done shell script basics course.
 

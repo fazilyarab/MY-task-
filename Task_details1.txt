@@ -114,4 +114,5 @@ AFTER PONGAL_HOLIDAYS_(17,18,19)
 
 9.3.2020 (monday) I started shell scripting course in udemy.
 10.3.2020 all done shell script basics course.
+11.3.2020 Done AWS monitoring & Logging services & Cloud formation & EBS basics
 

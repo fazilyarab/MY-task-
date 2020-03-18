@@ -116,4 +116,10 @@ AFTER PONGAL_HOLIDAYS_(17,18,19)
 10.3.2020 all done shell script basics course.
 11.3.2020 Done AWS monitoring & Logging services & Cloud formation & EBS basics
 12.3.2020 done AWS billing & pricing & Security basics through udemy.
+13.3.2020 (friday) Linux basics through udemy.
+
+after this week corona issue work from home for one week.
+
+16.3.2020 monday ( leave personal work)
+17.3.2020 balance topics covered in udemy. (work from home).
 

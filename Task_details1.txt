@@ -122,4 +122,9 @@ after this week corona issue work from home for one week.
 
 16.3.2020 monday ( leave personal work)
 17.3.2020 balance topics covered in udemy. (work from home).
+18.3.2020 Aws cloud Architect & SNS & SQS.
+19.3.2020 Linux Disk management & boot process.
+20.3.2020 ( friday) user management  & linux networking
+
+23.3.2020 (monday) linux advance permission & command line.
 

@@ -129,5 +129,10 @@ after this week corona issue work from home for one week.
 23.3.2020 (monday) linux advance permission & command line.
 24.3.2020 (Tuesday) kubernetes products buildpacks basics.
 25.3.2020 (wednesday) linux new course udemy linux sample project. 
-26.3.2020 ( Thursday) again jenkins toutrioal CI&CD through udemy cls. recall jenkins concepts. 
+26.3.2020 ( Thursday) again jenkins toutrioal CI&CD through udemy cls. recall jenkins concepts.CI only i did.
+27.3.2020 ( friday) CD with jenkins. before server problem firewall issue. i fixed 
+
+
+30.3.2020 (monday) learining abou jfrog artifactory.
+
 

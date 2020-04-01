@@ -135,5 +135,5 @@ after this week corona issue work from home for one week.
 
 30.3.2020 (monday) learining abou jfrog artifactory.
 31.3.2020 (Tuesday) learning about Linux Logical volume Manager udemy course.
-1.4.2020 (wednesday) nagios monitoring tool
+1.4.2020 (wednesday) nagios monitoring tool basics.
 
